@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>lz-string</artifactId>
-    <version>1.3.3</version>
+    <version>1.3.4-SNAPSHOT</version>
     <name>lz-string</name>
     <description>WebJar for lz-string</description>
     <url>http://webjars.org</url>
@@ -50,7 +50,7 @@
         <url>http://github.com/webjars/lz-string</url>
         <connection>scm:git:https://github.com/webjars/lz-string.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/lz-string.git</developerConnection>
-        <tag>lz-string-1.3.3</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <build>
